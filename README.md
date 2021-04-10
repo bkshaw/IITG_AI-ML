@@ -16,6 +16,8 @@ The repository is divided into 5 modules -
   <li>Module 5: Miscellaneous </li>
   
  </ul>
- There is a **Presentation** directory which has the theory behind each algorithm and its detailed explanation. The **Dataset** folder contains the datasets which are used in the various algorithms.
+ 
+ 
+There is a __Presentation__ directory which has the theory behind each algorithm and its detailed explanation. The __Dataset__ folder contains the datasets which are used in the various algorithms.
 
 
